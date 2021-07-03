@@ -1,0 +1,27 @@
+
+Dataset contains info about  factors that contribute to wine quality
+Attribute information: 
+
+Fixed_Acidity: 		The ph value for titrable acid content (0-7)
+
+Volatile_Acidity: 		Measure of acidity due to bacteria
+
+Citric_Acid: 		Amount of citric acid present in wine
+
+Residual_Sugar: 		Amount of grape sugar in gms/litre
+
+Chlorides: 		Amount of chlorides present in wine
+
+Free_Sulfur-dioxide:		 Amount of SO2 that is not bound to other molecules
+
+Total_Sulfur-dioxide: 	Portion of SO2 that is free in the wine plus the portion that is bound to other chemicals in the wine
+
+Density: 			Density of wine (gms/cm3)
+
+pH: 			The pH value of wine (0-14)
+
+Sulphates: 			Amount of salts of sulphuric acid 
+
+Alcohol: 			Alcohol content in percentage
+
+Quality: 			Wine quality 
