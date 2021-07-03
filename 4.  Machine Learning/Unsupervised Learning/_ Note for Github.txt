@@ -1,0 +1,14 @@
+2 feature selection methods used :
+
+i)   SelectKBest  --  when target column is known beforehand ,
+	              significant predictors are selected .
+
+	            
+ii)  PCA  --  when target column is not known beforehand ,
+	  to reduce multi-collinearity ,
+	  to reduce dimensionality (noise) ,
+	  to improve accuracy of the clustering model
+
+
+	 Online Retail  , Happiness Report ,  Snails , US communities
+	   
