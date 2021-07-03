@@ -1,0 +1,22 @@
+
+Family                         The estimated extent to which Family contributes to the calculation of the Happiness Score.
+	  	Equaivalent  to “If you are in trouble ,  do you have relatives or friends you can count on to help you ,  or not?” 
+
+GDP per Capita          The estimated extent to which GDP per Capita contributes to the calculation of the Happiness Score.
+	
+
+Health 		The estimated extent to which Health (Life Expectancy) contributes to the calculation of the Happiness Score. 
+
+Freedom 		The estimated extent to which Freedom contributes to the calculation of the Happiness Score.
+		Equivalent to  “Are you satisfied or dissatisfied with your freedom to choose what you do with your life?”
+
+ Generosity 	The estimated extent to which Generosity contributes to the calculation of the Happiness Score.
+		Equivalent to  “Have you donated money to a charity in the past month?”
+
+
+ Trust 		The estimated extent to which Trust contributes to the calculation of the Happiness Score.
+		Equivalent to : “Is corruption widespread throughout the government or not?”  &   “Is corruption widespread within businesses or not?”
+
+Dystopia Residual     Each country is compared against a hypothetical nation called Dystopia. 
+		Dystopia represents the lowest national average for each of the six key variables 
+		Hence Dystopia is used as a benchmark for regression.
