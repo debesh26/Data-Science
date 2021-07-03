@@ -1,0 +1,16 @@
+Data of  30 teams  per year  is given.
+
+Cols Info
+
+	RS    	 	Runs Scored
+	RA    	 	Runs Allowed
+
+	OBP   	 	On Base Percentage                       how frequently a batter reaches base
+	SLG   	 	Slugging Percentage                       batting productivity of a hitter
+
+	OOBP  		Opponent's  OBP
+	OSLG  	 	Opponent's  SLG
+
+	BA    	 	Batting Average
+
+	W     	 	No of wins in that season            ( Target Col )
