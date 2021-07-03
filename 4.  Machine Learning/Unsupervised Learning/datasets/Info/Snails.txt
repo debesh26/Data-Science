@@ -1,0 +1,10 @@
+
+Gender		M, F, and I (infant)
+Length		Longest shell measurement
+Diameter		perpendicular to length
+Height		with meat in shell
+Weight		whole abalone
+Meat weight	weight of meat
+Gut weight	gut weight
+Shell weight	after being dried
+Rings		+1.5 gives the age in years
