@@ -1,0 +1,4 @@
+
+Binary class         :    Breast Cancer   ,   Diabetes                ,   Vehicle Loan     ,    Credit Card Lead
+
+Multi-class          :    Wine                  ,  Hand-written Digit 
