@@ -1,0 +1,11 @@
+
+Car name		name of car
+Year       		Year of purchase
+Present_Price	Present Cost Price of car
+Kms-Driven	Total distance(in kms) driven
+Fuel_Type		Type of fuel used
+Seller_Type	Type of Seller
+Transmission	Type of transmission present
+Owner		Num of past owners of car
+
+Selling_Price	Selling_Price of the car by the owner    (Target Col)
