@@ -1,0 +1,16 @@
+Cols info -- 
+
+Species	:	 Species of a fish
+
+V_length	:	 Vertical length of a fish
+
+D_length	:	 Diagonal length of a fish
+
+C_length	: 	 Cross length of a fish
+
+Height	:	 Height of a fish
+
+Width	:	 Diagonal width of a fish
+
+
+Weight	:	 Weight of a fish 		(Target Col)
