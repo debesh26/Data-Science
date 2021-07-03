@@ -1,0 +1,24 @@
+PROBLEM_TYPE,no_of_cases,Avg_pending_calls,Avg_resol_time
+Temperature control not working,170,1.3,32
+power chord does not tightly fit,12,2,150
+Fan swing not working,5,1,35
+Main switch does not on,3,2,8
+Forgot mobile app password,45,2.3,54
+AC stops abruptly,47,3.1,132
+App hangs while entring commands,12,4,154
+App takes a long time to initialize,165,1.2,32
+Unable to connect the App to the device,321,1,5
+Reinstalling the app hangs the phone,22,3.3,140
+Mobile screen blanks on use of phone,23,4.3,143
+Cluttered with popup messages,230,1.3,23
+AC controller sofware missing,193,1.2,33
+AC remote does not  work,24,2.8,180
+Remote Keys get stuck ,450,1,8
+Unable to operate menu from remote,520,1,7
+Motor noise from the system ,390,1,9
+Freshner holder stuck ,140,1.7,23
+Factory settings not working,72,2.3,125
+WIFI connectivity breaks ,290,1.1,11
+Battery backup does not get fully charged,29,2.2,45
+Battery does not last full 8 hrs,43,2.1,56
+Fan speed varies at on its own,78,2.2,44
