@@ -1,0 +1,13 @@
+Information about factors that might impact the respiratory function.
+
+Cols info -- 
+
+Age:               Age in years
+
+Height:         Height in inches 
+
+Gender:         Gender value is 1 if male 0 if female
+
+Smoke:          Whether the person is a smoker or non- smoker, the value is 1 if smoker and 0 otherwise
+
+FEV:              Forced Exhalation Volume  , a measure of how much air somebody can forcibly exhale from their lung (in %)             (Target Col)
